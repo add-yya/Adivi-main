@@ -14,11 +14,8 @@
 
 ## Author
 
-- [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dash-09)
-- [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ad9z.me/)
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-shuklaa/)
-- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dash_7xz)
-- [![GitHub](https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/add_shy)
+- [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/add-yya)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-shukla-061870273/)
  
 
 ## Preview :
